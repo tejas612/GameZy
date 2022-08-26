@@ -2,6 +2,8 @@
   "data" :  {
       "AD_Priority_FB/Google" : "Google",
       
+       "App_Version" : "1.0",
+      
       "G_BannerAd": "ca-app-pub-3940256099942544/6300978111",
       "G_InterAd": "ca-app-pub-3940256099942544/1033173712",
       "G_NativeAd": "ca-app-pub-3940256099942544/2247696110",
