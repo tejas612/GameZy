@@ -20,11 +20,6 @@
     
       "Video30_and_InterAd" : "interAd",  
     
-      "BASE64KEY" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjiPKYdNkGHUZCmvVcuWFY2FQfKH/84qwfCU0ycqZn9vKBqamfvc0SuLWn/AGK0QtAhB+6PIJ5OrqRu7i8kmd7m37AvQ01sSa9tTLyVx7HCMbsLmFM5PwMlYtMIylDQVjYFMXCvdoR/nizQvGki9+O3Y0d3EjYbM1+QXDj54PrbMr/yHYH18foun01oC9in7EuBw0n1dD/j12VJDN/Jw79ff5Aqq9j1Ov05cGmF8TlS0W/NuCGn4c6NHd+91Vj2uFZCPt+1lzGSXem9iQBtiXv/4OOKwrZ4eu5TaJigoOIzfqMr1FHRU4s4Zytgl/UDuy+qPq3VbFxcQjPPsPfT7thQIDAQAB",
-      "PRODUCT_ID_YEAR" : "orbut_12_month",
-      "PRODUCT_ID_6MONTH" : "orbut_6_month",
-      "PRODUCT_ID_MONTH" : "orbut_1_month",
-    
       "InterAd_Interval" : "3000",  
       "VideoAd_Interval" : "3000", 
       "Video30Ad_Interval" : "3000", 
@@ -32,18 +27,16 @@
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
-      "RecycleAds_Position" : "6", 
-    
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-      "BannerAd_Id": "ca-app-pub-xyz3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-xyz3940256099942544/1033173712",
-      "Video_Ad_Id": "ca-app-pub-xyz3940256099942544/5354046379",
-      "NativeAd_Id": "ca-app-pub-xyz3940256099942544/2247696110",
-      "NativeAd_Id1": "ca-app-pub-xyz3940256099942544/2247696110",
-      "AppOpenAd_Id": "ca-app-pub-xyz3940256099942544/3419835294",
-      "VideoAd30_Id": "ca-app-pub-xyz3940256099942544/5224354917",
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
+      "VideoAd_Id": "ca-app-pub-3940256099942544/5354046379",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+      "NativeAd_Id1": "ca-app-pub-3940256099942544/2247696110",
+      "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
+      "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
       
       "BannerAd_Id_Applovin": "e0de55e968939516",
       "MrecAd_Id_Applovin": "7b2f30da51847043",
