@@ -24,7 +24,7 @@
       "VideoAd_Interval" : "3000", 
       "Video30Ad_Interval" : "3000", 
     
-      "TransferBox_OnOff" : "on",  
+      "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
       "email" : "venturescope69@gmail.com",  
