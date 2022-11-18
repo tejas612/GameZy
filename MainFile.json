@@ -10,7 +10,7 @@
       "ghe2" : "aft_vpn_test",
       "carrierId_ourVPN" : "gam_codemizevpn",
     
-      "AppVersion_Update" : "2.0",  
+      "AppVersion_Update" : "1.0",  
     
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
@@ -24,7 +24,7 @@
       "VideoAd_Interval" : "3000", 
       "Video30Ad_Interval" : "3000", 
     
-      "TransferBox_OnOff" : "off",  
+      "TransferBox_OnOff" : "on",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
       "email" : "venturescope69@gmail.com",  
