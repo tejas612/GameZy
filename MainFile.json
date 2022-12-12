@@ -12,7 +12,7 @@
     
       "AppVersion_Update" : "1.0",  
     
-      "ExtraData" : "on",
+      "ExtraData" : "off",
       
       "AdsOnOff" : "off",  
       "DialogBoxAds_OnOff" : "on",  
